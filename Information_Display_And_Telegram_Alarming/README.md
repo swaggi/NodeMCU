@@ -1,4 +1,4 @@
-# Information Display and Telegram Notification
+# Information Display and Telegram Alarming
 
 ## Parts needed:
 
